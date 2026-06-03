@@ -1,26 +1,32 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=42&duration=3500&pause=900&color=FFFFFF&center=true&vCenter=true&width=1000&height=100&lines=Bhavinash;Backend+%26+Systems+Engineer" />
+<h1 align="center">Bhavinash</h1>
+
+<!-- <h3 align="center">
+Backend Development • Networking • Cyber Security • DSA
+</h3> -->
 
 ### `Backend Development` • `Networking` • `Cyber Security` • `DSA`
 
+
+<p align="center" width="80%">
+Passionate about building scalable backend systems, secure applications, and reliable software solutions.
+Strong foundation in Data Structures & Algorithms with hands-on experience in full-stack development, networking, and system design.
+Driven by curiosity, continuous learning, and solving real-world engineering challenges through technology.
+</p>
+
+---
+
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=boyinatulasiram&style=for-the-badge&color=7C3AED"/>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=28&duration=3200&pause=800&color=7B68EE&center=true&vCenter=true&width=1000&lines=Backend+%26+Systems+Engineering;Networking+%26+Security+Enthusiast;Building+Scalable+Applications;1000%2B+DSA+Problems+Solved" />
 
 </div>
 
 ---
 
-<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=28&duration=3000&pause=700&color=7B68EE&center=true&vCenter=true&width=1000&lines=Backend+%26+Systems+Engineering;Networking+%26+Security+Enthusiast;Building+Scalable+Applications;1000%2B+DSA+Problems+Solved;Future+Software+Development+Engineer" />
-
-</div>
-
----
-
-# 🚀 About Me
+# About Me
 
 ```cpp
 class Bhavinash {
@@ -66,14 +72,16 @@ public:
 
 <br/>
 
+
 # 💻 Tech Stack
 
 <div align="center">
 
 <table>
+
 <tr>
 
-<td align="center" width="50%">
+<td align="center" width="33%">
 
 ### Languages
 
@@ -81,30 +89,21 @@ public:
 
 </td>
 
-<td align="center" width="50%">
+<td align="center" width="33%">
 
-### Backend Development
+### Backend
 
 <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
 
-<br/><br/>
+<br/>
 
-<img src="https://img.shields.io/badge/REST_APIs-2563EB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/JWT_Auth-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RBAC-0F172A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/CLI_Tools-059669?style=for-the-badge" />
+<img src="https://img.shields.io/badge/REST_API-2563EB?style=flat-square" />
+<img src="https://img.shields.io/badge/JWT-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/RBAC-0F172A?style=flat-square" />
 
 </td>
 
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-
-<td align="center" width="50%">
+<td align="center" width="33%">
 
 ### Databases
 
@@ -112,37 +111,51 @@ public:
 
 </td>
 
-<td align="center" width="50%">
-
-### Cloud & DevOps
-
-<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,git,postman&theme=dark" />
-
-</td>
-
 </tr>
-</table>
 
----
+<tr>
 
-<div align="center">
+<td align="center">
 
 ### Networking & Security
 
 <img src="https://skillicons.dev/icons?i=linux,bash&theme=dark" />
 
-<br/><br/>
+<br/>
 
-<img src="https://img.shields.io/badge/CCNA-2563EB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/TCP%2FIP-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Network_Security-0F172A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Linux-059669?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CCNA-2563EB?style=flat-square" />
+<img src="https://img.shields.io/badge/TCP/IP-7C3AED?style=flat-square" />
 
-</div>
+</td>
+
+<td align="center">
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark" />
+
+</td>
+
+<td align="center">
+
+### Tools & Cloud
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,vscode&theme=dark" />
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
 ---
+
+
+
+
+
 
 # 🏆 Achievements
 
