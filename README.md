@@ -73,7 +73,7 @@ public:
 <br/>
 
 
-# 💻 Tech Stack
+#  Tech Stack
 
 <div align="center">
 
@@ -150,55 +150,6 @@ public:
 
 </div>
 
----
-
-
-
-
-
-
-# 🏆 Achievements
-
-* Solved **1000+ DSA Problems**
-* CodeChef **2★**
-* ICPC Prelims AIR **1690**
-* Reliance Foundation Scholar (2023–2027)
-* Cisco CCNA 1, CCNA 2 & CCNA 3 Certified
-
----
-
-# 📜 Certifications
-
-* Cisco Networking Academy — Introduction to Networks (CCNA1)
-* Cisco Networking Academy — Switching, Routing & Wireless Essentials (CCNA2)
-* Cisco Networking Academy — Enterprise Networking, Security & Automation (CCNA3)
-* NPTEL — Programming in Java
-
----
-
-# 🧠 Problem Solving
-
-* 1000+ DSA Problems Solved
-* Active on LeetCode & CodeChef
-* Graphs
-* Trees
-* Dynamic Programming
-* Backtracking
-* Greedy Algorithms
-* Binary Search
-
----
-
-# 🌱 Currently Learning
-
-* Advanced Networking Concepts
-* System Design
-* Distributed Systems
-* Security Fundamentals
-* Cloud Infrastructure
-* Backend Scalability Patterns
-* Docker & Containerization
-* AWS Services
 
 ```
 ```
