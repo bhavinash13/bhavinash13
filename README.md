@@ -39,8 +39,7 @@ public:
         "Backend Development",
         "Networking",
         "Cyber Security",
-        "System Design",
-        "Cloud Infrastructure"
+        "System Design"
     };
 
     vector<string> languages = {
@@ -55,8 +54,7 @@ public:
         "Express.js",
         "MongoDB",
         "MySQL",
-        "AWS",
-        "Docker"
+        "AWS"
     };
 
     int dsaSolved = 1000;
@@ -107,7 +105,7 @@ public:
 
 ### Databases
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
 
 </td>
 
@@ -132,7 +130,7 @@ public:
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" />
 
 </td>
 
@@ -140,7 +138,7 @@ public:
 
 ### Tools & Cloud
 
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,git,github,postman,vscode&theme=dark" />
 
 </td>
 
